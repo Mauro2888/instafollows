@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">instafollows</string>
+
+    <string name="client_id">7b103ed8c0854822b768ee1cee255c82</string>
+    <string name="callback_url">http://localhost:3000/auth/instagram/callback</string>
+    <string name="base_url">https://api.instagram.com/</string>
+
+    <string name="get_user_info_url">
+    https://api.instagram.com/v1/users/self/?access_token=
+    </string>
+</resources>
